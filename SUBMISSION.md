@@ -19,8 +19,12 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![Ant go-nodeps #1](images/ant_ivy_gonodeps_01.png)
 ![Ant go-nodeps #2](images/ant_ivy_gonodeps_02.png)
 - [15 pts] A screen capture showing a successful build using the Ant+Ivy script.
+![Ant+Ivy Build Success](images/ant_ivy_build_success.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
+![Ant+Ivy JAR Execution](images/ant_ivy_jar_success.png)
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
+[hello-world/build.xml](hello-world/build.xml)
+[hello-world/ivy.xml](hello-world/ivy.xml)
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
